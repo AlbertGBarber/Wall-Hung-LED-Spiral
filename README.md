@@ -7,7 +7,7 @@ and <a href="https://github.com/AlbertGBarber/General-PCBs/blob/master/Wemos%20l
 They are for mounting the Wemos D1 mini controller and the spiral's light sensor.
 
 The central crystal is a circular 76mm diameter suncatcher I bought on Aliexpress: <a href="https://a.aliexpress.com/_mtR4YlD">here.</a> (Make sure you pick the 76mm diameter option). 
-The LEDs are "pebble" style WS2812b's 1ith 10mm spacing, just search for them on Aliexpress. Otherwise everything else should be easily findable. 
+The LEDs are "pebble" style WS2812b's with 10mm spacing, just search for them on Aliexpress.
 You'll need a 5V 10A power adapted to power the whole thing. 
 The hanging hooks I used are hand-bag hooks that you can find on Amazon. They should have an M3 screw thread.
 For the segment panels I used simple resume paper (0.2mm thick).
