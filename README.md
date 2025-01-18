@@ -8,5 +8,8 @@ They are for mounting the Wemos D1 mini controller and the spiral's light sensor
 
 The central crystal is a circular 76mm diameter suncatcher I bought on Aliexpress: <a href="https://a.aliexpress.com/_mtR4YlD">here.</a> (Make sure you pick the 76mm diameter option). 
 The LEDs are "bullet" style WS2812b's 1ith 10mm spacing, just search for them on Aliexpress. Otherwise everything else should be easily findable. 
+You'll need a 5V 10A power adapted to power the whole thing. 
+The hanging hooks I used are hand-bag hooks that you can find on Amazon. They should have an M3 screw thread.
+For the segment panels I used simple resume paper (0.2mm thick).
 
 <a href="https://youtu.be/2Zhm1z9rZDQ"><img align="center"  width="40%" src="https://github.com/AlbertGBarber/Wall-Hung-LED-Spiral/blob/main/Images/Youtube%20Play%20Thumb.bmp"></a>
