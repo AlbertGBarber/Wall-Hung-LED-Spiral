@@ -1,0 +1,5 @@
+Github links to the custom PCB's. One of each are required. Click the three dots on the left had side to download the .zip Gerber files.
+
+https://github.com/AlbertGBarber/General-PCBs/blob/master/photoresistor%20mount/Gerber_NEW_PCB_20190315110152.zip
+
+https://github.com/AlbertGBarber/General-PCBs/blob/master/Wemos%20lipo%20charger%20combo/Gerber_We_Lipo%20Combo_W_LLC_3v3_reg_PCB_2020-07-19_11-51-27.zip
