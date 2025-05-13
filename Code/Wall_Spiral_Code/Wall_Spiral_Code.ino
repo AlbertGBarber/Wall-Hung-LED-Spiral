@@ -9,13 +9,6 @@
 //See bottom of code for spare effects
 #define NUM_EFFECTS 23
 
-//===============================================================
-//WARNING, must be compiled using ESP8266 Version 2.7.4 or lower,
-//due FastLED generating noise on the LED data line for higher versions.
-//This specifically affects "bullet" WS2811 LEDs, but not the typical 5050 package WS2812* LEDs,
-//and causes the bullets to flicker for certain effects.
-//===============================================================
-
 //LightSensor Vars
 #define LIGHTSENPIN A0
 #define LIGHTSEN_ENABLE_PIN D5  //jumper block reading pin, used to enable / disable the light sensor reading at boot
@@ -112,7 +105,6 @@ ColorWipeSLSeg *ColorWipe;
 //                              General Vars
 //=====================================================================================
 
-
 uint8_t normalBrightness = 200;  //note that this is very bright, so it shows through the paper!
 
 int lightLevel;
@@ -165,8 +157,9 @@ void setup() {
     lotusSegs.runOffset = true;
 }
 
-//-------------------Main Loop Code--------------------------
-//-----------------------------------------------------------
+//=====================================================================================
+//                              Main Loop Code
+//=====================================================================================
 //To remove an effect, simply set its effectSet.runTime = 0 and it will be skipped over
 
 //To add a new effect, add the following code block to the large switch statement below,
