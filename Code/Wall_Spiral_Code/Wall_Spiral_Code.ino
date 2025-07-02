@@ -1,6 +1,9 @@
 #define FASTLED_INTERNAL 1  //turns of the pragma messages from FastLED
 #include <Pixel_Spork.h>
 
+//IMPORTANT: requires FastLED version 3.10.0 or less (may not work with higher versions)
+//was originally coded on version 3.9.16
+
 //FastLED vars
 #define NUM_LEDS 90 //total number of LEDs
 #define DATA_PIN D8
