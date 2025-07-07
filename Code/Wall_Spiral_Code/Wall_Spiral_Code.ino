@@ -10,7 +10,7 @@
 #define DATA_PIN D8
 
 //Effect count
-//See "Spare Effect" file for unused effects
+//See "Spare Effects" file for unused effects
 #define NUM_EFFECTS 23
 
 //LightSensor Vars
